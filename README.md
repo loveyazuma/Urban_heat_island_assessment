@@ -36,11 +36,6 @@ The aim of this study is to conduct the following analysis:
  - The administrative boundaries of the Tehran city can be downloaded from the Overpass turbo (is a web based data mining tool for OpenStreetMap)(https://overpass-turbo.eu/)
 
 
-**Flowchart**
-
-
-![Flowchat](https://github.com/loveyazuma/geoscripting-exercises/blob/master/fpDiagram.png)
-
 
 **Languages**
  - R
